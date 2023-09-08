@@ -1,5 +1,6 @@
 rencana pembelajaran web dasar
 -web dasar bootstrap
 *navbar
+*foto
 -git-github
 *table
