@@ -1,3 +1,4 @@
 rencana pembelajaran web dasar
 -web dasar bootstrap
--git-github
+*info
+*foto
